@@ -1,0 +1,3 @@
+/Users/z/CLionProjects/chip8cpp/cmake-build-debug/CMakeFiles/chip8cpp.dir
+/Users/z/CLionProjects/chip8cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/z/CLionProjects/chip8cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
